@@ -1,0 +1,11 @@
+[Level.txt](https://github.com/user-attachments/files/24911600/Level.txt)
+
+    		=== MINESWEEPER TERMINAL ===
+Format input:
+B baris kolom   -> buka kotak
+F baris kolom   -> pasang/hapus flag
+
+Pilih level kesulitan:
+1 Mudah (8x8)
+2 Sedang (15x15)
+3 sulit (20x20)
